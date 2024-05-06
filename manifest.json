@@ -1,0 +1,11 @@
+{
+  "addons": [
+    {
+      "id": "selectcount",
+      "version": "0.1",
+      "description": "Counts selected text and print number of lines and characters",
+      "path": "plugins/selectcount.lua",
+      "mod_version": "3",
+    }
+  ]
+}
